@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591149198582",
+    "project_id": "danos-masivos-telmex",
+    "storage_bucket": "danos-masivos-telmex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591149198582:android:5f6dc5ebaef3e82e0cd0d7",
+        "android_client_info": {
+          "package_name": "com.telmex.danos_masivos_telmex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzo3Wx4dTziv4bpq8Vtxzw15DgwQVzX-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
